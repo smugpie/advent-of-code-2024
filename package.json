@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "prettier": "prettier --write .",
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "prettier": "^3.4.2",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.2"
+  }
+}
